@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Demo0</string>
+    <string name="question_text">
+             Constantinople is the largest city in Turkey.
+         </string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="btn1">XYZ阅读器</string>
+    <string name="text1">纳米学位应用</string>
+    <string name="btn3">热门电影</string>
+    <string name="btn4">股票雄鹰</string>
+    <string name="btn5">最新闻</string>
+    <string name="btn6">毕业设计</string>
+    <color name="gray2">#E9E8E6</color>
+    <color name="gray">#777777</color>
+
+</resources>
